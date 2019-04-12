@@ -1,0 +1,4 @@
+Name Req 100 1 solo Gsurus 0 false
+Nam2e solo req 100 1 Gsurus 1 true
+Nam2e solo req 100 1 Gsurus 2 false
+Nam4e solo req 100 1 Gsurus 5 false
